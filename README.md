@@ -77,6 +77,8 @@ Kanban-board is a web app that showcases the the meals available in a restaurant
 
 - **[send data to API]**
 - **[receive data from API]**
+- **[Adding Likes]**
+- **[Adding Comments]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +150,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
- **Author1**
+👤 **Author1**
 
 
 Harshita Jain
