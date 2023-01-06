@@ -15,5 +15,4 @@ describe('Test count fucn', () => {
     counter(div, count);
     expect(div.innerHTML).toBe('No meals added');
   });
-  
 });
