@@ -22,15 +22,6 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-
-  <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -44,6 +35,7 @@ After you're finished please remove all the comments and instructions!
   - [Prerequisites](#prerequisites)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -173,6 +165,14 @@ IRADUKUNDA Pacific Rugwizangoga
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Mobile Version]**
+- [ ] **[More option to select from]**
+
 
 <!-- CONTRIBUTING -->
 
