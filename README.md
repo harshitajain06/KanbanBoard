@@ -91,7 +91,7 @@ It also demonstrates the use of async & await, testing with JEST, project collab
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://rugwizangoga.github.io/Kanban-board/dist/)
+- [Live Demo Link](https://harshitajain06.github.io/KanbanBoard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
