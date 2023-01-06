@@ -1,7 +1,22 @@
 import './style.css';
 import logo from './modules/logo.jpg';
 import showBook from './modules/items.js';
+import { addLike } from './modules/Add_and_Get_likes.js';
+import showlike from './modules/print_like.js';
 
 showBook();
+
+const APIBaseURL = 'https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/apps/';
+
+const appId = 'zMdguO86Euk3q3AJoMm8';
+
+document.addEventListener('click', (e) => {
+  const { id } = e.target;
+  if (e.target.matches('.hat')) {
+    addLike(`${APIBaseURL + appId}/likes`, id);
+    const likedMeal = document.getElementById(id);
+    showlike(likedMeal.nextElementSibling, id, `${APIBaseURL + appId}/likes`);
+  }
+});
 
 document.querySelector('.img1').src = logo;
