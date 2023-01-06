@@ -56,9 +56,9 @@ After you're finished please remove all the comments and instructions!
 
 Kanban-board is a web app that showcases the the meals available in a restaurant with great number of details about those meals including the categories, Ingridients and the recipes for them.  
 
-It is achieved with the help of 2 external APIs namely Involvement API (https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) and Meals DB(https://www.themealdb.com/api.php). 
+It is achieved with the help of 2 external APIs namely [Involvement API] (https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) and [Meals DB](https://www.themealdb.com/api.php). 
 
-It also demonstrates the use of async & await, testing with JEST, project collaboration with a help of github's classic projects, as well as the use of gitflow. here is the link to the video () for usage demonstration.
+It also demonstrates the use of async & await, testing with JEST, project collaboration with a help of github's classic projects, as well as the use of gitflow. here is the link to the [video] (https://www.loom.com/share/ae19cce1fac141f2b76b55abaec77802) for usage demonstration.
 
 
 ## 🛠 Built With <a name="built-with"></a>
