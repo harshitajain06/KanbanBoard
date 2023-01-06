@@ -51,7 +51,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Kanban nboard ] <a name="about-project"></a>
+# 📖 [ Kanban board ] <a name="about-project"></a>
 
 
 Kanban-board is a web app that showcases the the meals available in a restaurant with great number of details about those meals including the categories, Ingridients and the recipes foth them.  
