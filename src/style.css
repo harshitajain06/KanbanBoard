@@ -1,7 +1,7 @@
 * {
   list-style: none;
   text-decoration: none;
-  background-color: #f0ffff;
+  background-color: #bbe8e8;
 }
 
 .active {
@@ -111,6 +111,7 @@ footer {
   width: 20vw;
   border: 2px solid rgb(0, 0, 0);
   border-radius: 20px;
+  box-shadow: 0.2rem 0.2rem black;
 }
 
 .card p {
@@ -120,6 +121,8 @@ footer {
 form button {
   align-self: center;
   font-weight: bold;
+  box-shadow: 0.2rem 0.2rem black;
+  font-size: 15px;
 }
 
 .card button {
@@ -127,6 +130,10 @@ form button {
   margin-bottom: 30px;
   box-shadow: 0.2rem 0.2rem black;
   font-size: 15px;
+}
+
+.card button:hover {
+  cursor: pointer;
 }
 
 .img1 {
@@ -170,4 +177,13 @@ form input,
 textarea {
   background-color: white;
   padding: 15px;
+}
+
+.hat {
+  font-size: 2.5vw;
+  color: red;
+}
+
+.hat:hover {
+  cursor: pointer;
 }
