@@ -46,7 +46,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [ Meals Menu ] <a name="about-project"></a>
 
 
-Kanban-board is a web app that showcases the the meals available in a restaurant with great number of details about those meals including the categories, Ingridients and the recipes for them.  
+Meals-Menu is a web app that showcases the the meals available in a restaurant with great number of details about those meals including the categories, Ingridients and the recipes for them.  
 
 It is achieved with the help of 2 external APIs namely [Involvement API](https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) and [Meals DB](https://www.themealdb.com/api.php). 
 
